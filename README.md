@@ -1,4 +1,5 @@
-![afbeelding_2022-05-25_193813360](https://user-images.githubusercontent.com/104650421/170328233-9ea9f977-d06b-49c4-a1d5-fb8ff450ee9a.png)
+![heyeyeyeye](https://user-images.githubusercontent.com/104650421/170330472-d6b3f04f-0037-48ed-b48d-d665e68b8fe2.png)
+
 
 # Welcome to my page! 👋
 My name is obv, I am 15 years old and the Founder/CEO of Tweaks LLC. This is the about page of me.
