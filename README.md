@@ -1,4 +1,5 @@
-![heyeyeyeye](https://user-images.githubusercontent.com/104650421/170330472-d6b3f04f-0037-48ed-b48d-d665e68b8fe2.png)
+![afbeelding_2022-05-25_195310836](https://user-images.githubusercontent.com/104650421/170330569-67ac7778-a9b9-429e-a335-08babf085015.png)
+
 
 
 # Welcome to my page! 👋
