@@ -13,7 +13,7 @@ My name is obv, I am 15 years old and a coder. This is the github page.
 
 ## These are my projects:
 
-Minecraft Injector Project: https://github.com/UrDeutschComrade/MIP---MC-Injector-Project#readme
+Project Future: https://github.com/UrDeutschComrade/MIP---MC-Injector-Project#readme
 
 Ascend Client: https://github.com/CorrupT-S/Ascend-Launcher
 
