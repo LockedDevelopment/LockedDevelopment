@@ -3,7 +3,7 @@
 
 
 # Welcome to my page! 👋
-My name is obv, I am 15 years old and a coder. This is the github page.
+My name is obv, I am 15 years old and a coder. This is my github page.
 
 ## I am from:
 ![afbeelding_2022-05-25_192336661](https://user-images.githubusercontent.com/104650421/170325558-aa5a852c-a3ae-4705-9ca0-516046d9282c.png)
