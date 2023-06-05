@@ -3,4 +3,4 @@ I am a html, css, js & .net developer.
 
 ## Projects that i am working on:
 
-- Rusher Tweaks
+- Rusher Client
